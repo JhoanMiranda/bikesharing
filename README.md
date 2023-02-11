@@ -22,14 +22,15 @@
 #### With the bikes ID and the starting points, we could trace the one that the customer used the most, that way we can schedule the repairs, also we can be prepared for the times and the locations where bikes are needed the most.
 #### The bike-sharing program could be a good alternative for Des Moines because bikes can be used by people of any backgrounds, at any time and place.
 
+![Screenshot (39)](https://user-images.githubusercontent.com/114957364/218237945-7a9a3487-a377-4f14-b611-2a80e734aab1.png)
 
-####  https://public.tableau.com/app/profile/jhoan7196/viz/15_16753089437000/NYCStory
 
 # Links to my Tableau
 
 ## module
+####  https://public.tableau.com/app/profile/jhoan7196/viz/15_16753089437000/NYCStory
 
-![Screenshot (39)](https://user-images.githubusercontent.com/114957364/218237945-7a9a3487-a377-4f14-b611-2a80e734aab1.png)
+
 
 ## Challenge
 #### https://public.tableau.com/app/profile/jhoan7196/viz/15c/AugustSummary
